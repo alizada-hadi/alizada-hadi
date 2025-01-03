@@ -22,8 +22,6 @@ I'm a **Full-Stack Software Engineer** passionate about building robust, scalabl
 ### 🌟 [Starter Template for Next.js Projects](https://github.com/<your-username>/nextjs-starter-template)
 A reusable template for building modern web applications with **Next.js**, pre-configured with **Tailwind CSS**, **ShadCN**, **Drizzle**, and **Docker**.
 
-### ⚡ [E-Commerce System](https://github.com/<your-username>/ecommerce-system)
-A comprehensive e-commerce platform enabling physical stores to go digital, featuring inventory management, order tracking, and customer notifications.
 
 ## 🌱 What I'm Working On
 - 🔧 Enhancing my **starter setup** for new projects to streamline development workflows.
@@ -32,9 +30,9 @@ A comprehensive e-commerce platform enabling physical stores to go digital, feat
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/<your-linkedin-profile>)
-- 🐦 [Twitter](https://twitter.com/<your-twitter-handle>)
-- 🌐 [Portfolio](https://your-portfolio-url.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/hadi-alizada-4037b6218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🐦 [Twitter]([https://twitter.com/<your-twitter-handle>](https://x.com/Hadi_Alizada1))
+- 🌐 [Portfolio](https://hadializada.me)
 
 ## 🛠️ How I Work
 I believe in simplicity and efficiency:
