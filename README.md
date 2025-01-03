@@ -30,8 +30,8 @@ A reusable template for building modern web applications with **Next.js**, pre-c
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/hadi-alizada-4037b6218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- 🐦 [Twitter]([https://twitter.com/<your-twitter-handle>](https://x.com/Hadi_Alizada1))
+- 💼 [LinkedIn](https://linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/hadi-alizada-4037b6218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🐦 [Twitter](https://twitter.com/<your-twitter-handle>](https://x.com/Hadi_Alizada1))
 - 🌐 [Portfolio](https://hadializada.me)
 
 ## 🛠️ How I Work
