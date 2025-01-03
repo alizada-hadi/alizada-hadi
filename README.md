@@ -1,21 +1,21 @@
-# Hi there! 👋 Welcome to My GitHub Profile!
+# Hi there! 👋 I'm Hadi Alizada!
 
 I'm a **Full-Stack Software Engineer** passionate about building robust, scalable, and efficient applications. Recently, I've been diving into **DevOps** to enhance my skills in **CI/CD pipelines** and **automation**.
 
 ## 🚀 About Me
 
-- 💻 I'm experienced in **Next.js, Tailwind CSS, ShadCN, Drizzle ORM, PostgreSQL, Docker**, and more.
-- 🌟 Passionate about **DevOps engineering**, **CI/CD**, and **automation** as a beginner exploring this exciting field.
-- 📚 Constantly learning about **AI, machine learning**, and **data analysis**.
+- 💻 I'm experienced in **Next.js, ReactJS, Tailwind CSS, Drizzle ORM, Prisma, MongoDB PostgreSQL, Docker**, and more.
+- 🌟 Passionate about **DevOps engineering**, **CI/CD**, and **automation** exploring this exciting field.
+- 📚 Constantly learning about **DevOps engineering, CI-CD**.
 - 🎨 I enjoy crafting elegant UIs, scalable backends, and efficient workflows.
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS, ShadCN
-- **Backend**: Node.js, Drizzle ORM, REST APIs
-- **Database**: PostgreSQL, MySQL
-- **DevOps Tools**: Docker, Git, CI/CD (beginner level)
-- **Programming Languages**: JavaScript, TypeScript, Python
+- **Frontend**: Next.js, React, Tailwind CSS, Saas, 
+- **Backend**: Node.js, Express, Hono, Django, Prisma ORM, Drizzle ORM, REST APIs
+- **Database**: PostgreSQL, MySQL, MongoDB, sqlite, Redis
+- **DevOps Tools**: Docker, Git, CI/CD and more
+- **Programming Languages**: JavaScript, TypeScript, Python, PHP
 
 ## 📂 Featured Projects
 
