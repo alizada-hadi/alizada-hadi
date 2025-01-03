@@ -1,20 +1,20 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
 
-I'm a **Full-Stack Software Engineer** passionate about building robust, scalable, and efficient applications. I specialize in **Next.js**, with expertise in creating seamless user interfaces and backend systems.  
+I'm a **Full-Stack Software Engineer** passionate about building robust, scalable, and efficient applications. Recently, I've been diving into **DevOps** to enhance my skills in **CI/CD pipelines** and **automation**.
 
 ## 🚀 About Me
 
 - 💻 I'm experienced in **Next.js, Tailwind CSS, ShadCN, Drizzle ORM, PostgreSQL, Docker**, and more.
-- 🎨 I enjoy crafting elegant UIs and scalable backends that solve real-world problems.
-- 📚 I'm constantly learning about **AI, machine learning**, and **data analysis**.
-- 🌟 My goal is to simplify development processes by creating reusable, efficient solutions.
+- 🌟 Passionate about **DevOps engineering**, **CI/CD**, and **automation** as a beginner exploring this exciting field.
+- 📚 Constantly learning about **AI, machine learning**, and **data analysis**.
+- 🎨 I enjoy crafting elegant UIs, scalable backends, and efficient workflows.
 
 ## 🛠️ My Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS, ShadCN
 - **Backend**: Node.js, Drizzle ORM, REST APIs
 - **Database**: PostgreSQL, MySQL
-- **Tools & Platforms**: Docker, Git, CI/CD
+- **DevOps Tools**: Docker, Git, CI/CD (beginner level)
 - **Programming Languages**: JavaScript, TypeScript, Python
 
 ## 📂 Featured Projects
@@ -27,7 +27,8 @@ A comprehensive e-commerce platform enabling physical stores to go digital, feat
 
 ## 🌱 What I'm Working On
 - 🔧 Enhancing my **starter setup** for new projects to streamline development workflows.
-- 📈 Deepening my knowledge of **AI and machine learning fundamentals**.
+- 📈 Deepening my knowledge of **DevOps practices** and **automation tools**.
+- 🌟 Exploring **CI/CD pipelines** to optimize software delivery processes.
 
 ## 🤝 Let's Connect!
 
